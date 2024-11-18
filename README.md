@@ -4,7 +4,7 @@ This repository is like a queue for user-generated documentation pages for [Fanc
 
 **I accept PRs here.**
 
-If you want to write a page or pages, just send it as PR and if it's well-written, detailed and informative, I will add it to the actual docs later.
+If you want to write pages, just send them as PR and if they're well-written, detailed and informative, I will add them to the actual docs later.
 
 Please keep in mind that I will not add rushed, too short or uninformative pages, because otherwise the docs would become a confusing spam hell.
 
