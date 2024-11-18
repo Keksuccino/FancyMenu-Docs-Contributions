@@ -31,6 +31,7 @@ Since I can’t accept an unlimited amount of paid pages, it’s important to co
 
    - A section refers to a part of the documentation covering a specific feature or functionality, which might span multiple pages for clarity.
    - **Submit section topics for approval before starting via Discord DM**! This avoids writing sections that might be rejected.
+   - Write up to **5 sections** as start (more could follow after the first 5 got accepted)
    - You do **not** need to write 5 sections; this is simply the **maximum allowed at the start**. You can write fewer sections if preferred.
    - Avoid duplicating existing documentation; refer to the [FancyMenu Documentation](https://docs.fancymenu.net/) to ensure no redundancy.
 
