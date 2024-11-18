@@ -16,6 +16,10 @@ FancyMenu's documentation is formatted with Markdown, so you can use that in pag
 
 It's okay to use images, but no embedded videos please.
 
+# Linking to Other Pages
+
+If you want to link to another page in your page, please use short links like `/fma`. This would link to the `fma.md` page you can find in the `pages` directory. This kind of short link is broken in GitHub, but will work fine later in the actual documentation!
+
 # Writing Documentation Pages for Money
 
 If you’d like to contribute to the documentation on a paid basis, that’s absolutely fine! Simply send me a Discord DM (@keksuccino) to get started.
