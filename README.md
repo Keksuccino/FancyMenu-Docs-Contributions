@@ -8,6 +8,8 @@ If you want to write pages, just send them as PR and if they're well-written, de
 
 Please keep in mind that I will not add rushed, too short or uninformative pages, because otherwise the docs would become a confusing spam hell.
 
+Thank you very much to all contributors who make the mod more accessible for others by writing docs pages! 🙏🏻
+
 # Page Formatting
 
 FancyMenu's documentation is formatted with Markdown, so you can use that in pages!
@@ -44,11 +46,3 @@ Since I can’t accept an unlimited amount of paid pages, it’s important to co
 
    - Sections must be well-written, detailed, and helpful.
    - If a section does not meet expectations, it won’t be paid for, but prior topic approval reduces this risk.
-
-
-
-
-
---------
-
-Thank you very much to all contributors who make the mod more accessible for others by writing docs pages! 🙏🏻
