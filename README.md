@@ -22,7 +22,10 @@ If you want to link to another page in your page, please use short links like `/
 
 Dont include the `.md` in the link! Just the name of the MD file.
 
-This kind of short link is broken in GitHub, but will work fine later in the actual documentation!
+This is an example of a working Markdown hyperlink:
+`[FMA Animations](/fma)` ([FMA Animations](/fma))
+
+You will notice that this kind of short link is broken in GitHub, but it will work fine later in the actual documentation!
 
 # Writing Documentation Pages for Money
 
