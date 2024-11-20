@@ -37,7 +37,7 @@ Since I can’t accept an unlimited amount of paid pages, it’s important to co
 
    - Payment starts at **$15 per section**.
    - The final amount will be decided after reviewing the section based on its length, detail, and quality.
-   - For long and highly detailed sections, payment can go up to **$50 per section**.
+   - For long and highly detailed sections, payment can go up to **$100 per section**.
    - Payment will be made via PayPal after the section is reviewed and approved.
 
 ## Scope and Sections
